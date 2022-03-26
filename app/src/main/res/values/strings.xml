@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElbekInstagram</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">efgtSQIB9JdnbKuINFQdeVC3sfx7VlZ9vIR4xKcY</string>
+    <string name="back4app_client_key">yKFBNy8XrjSZNOAe73cIDQ30s3ipzIVZFJDNmZZ7</string>
+</resources>
