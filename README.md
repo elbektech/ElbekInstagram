@@ -32,8 +32,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://github.com/elbektech/ElbekInstagram/blob/master/part2.gif
-
+![part2](https://user-images.githubusercontent.com/90726406/161367876-d2202df3-428a-4ec6-a3ec-78a6258358c3.gif)
 
 Here's a walkthrough of implemented user stories:
 
